@@ -98,3 +98,27 @@ nav ul li a:hover{
     margin-top: 15px;
     margin-bottom: 15px;
 }
+.card-content > div:last-child{
+    border-left: 2px solid #D8DEE1; 
+    padding-left: 50px;            
+    display: flex;
+    align-items: center;            
+    height: 1000%;
+}
+.button2{
+    border-radius: 8px;
+    width: 70px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid #00A344;
+    background-color: #00C853;
+    box-shadow: 2px 2px 5px #D1D1D1;
+    font-weight: bold;
+}
+.button2:active{
+    transform: scale(0.94);
+    background-color: #00A344;
+    border-color: #00C853;
+}
