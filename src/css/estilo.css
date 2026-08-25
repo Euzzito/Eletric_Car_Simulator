@@ -54,6 +54,7 @@ nav ul li a:hover{
     transition: transform 01s ease;
     border: 1px solid #00A344;
     box-shadow: 2px 2px 5px #D1D1D1;
+    cursor: default;
 }
 .name:hover{
     transform: scale(1.02);
