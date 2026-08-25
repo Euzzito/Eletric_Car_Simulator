@@ -90,3 +90,11 @@ nav ul li a:hover{
     align-items: center;
     height: 90%;
 }
+.card-content h4{
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+.input{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
