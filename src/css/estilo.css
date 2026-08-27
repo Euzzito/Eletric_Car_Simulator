@@ -166,3 +166,13 @@ footer{
     color: #F59E0B;
     font-size: 1.3rem;
 }
+footer{
+    background-color: #1E293B;
+    color: white;
+    padding-top: 25px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+}
+#foot span{
+    color: #00C853;
+    font-weight: bold;
+}
